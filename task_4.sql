@@ -1,4 +1,4 @@
--- Display the full description of the 'books' table without using EXPLAIN or DESCRIBE
+-- Display the full description of the 'books'
 
 SELECT 
     COLUMN_NAME AS 'Column Name',
